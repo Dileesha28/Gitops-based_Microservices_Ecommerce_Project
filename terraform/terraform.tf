@@ -1,9 +1,9 @@
 terraform {
 
-  backend "s3" {
-    bucket = "devopsecom-terraform-backend-bucket"
+   backend "s3" {
+    bucket = "devopsecom-terraform-backend-bucket-new"
     key    = "s3-backend"
-    region = "us-east-1"
+    region = "eu-north-1"
   }
 
   required_providers {
@@ -15,6 +15,6 @@ terraform {
 }
 
 provider "aws" {
-  region = "us-east-1"
+  region = "eu-north-1"
 }
 
