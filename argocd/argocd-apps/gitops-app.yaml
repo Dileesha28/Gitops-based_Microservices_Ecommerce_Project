@@ -7,13 +7,13 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/laxmikantagiri/Production-Grade_GitOps-Driven_Microservices-Demo.git
+    repoURL: https://github.com/Dileesha28/Gitops-based_Microservices_Ecommerce_Project.git
     targetRevision: HEAD
     path: .
 
   destination:
     server: https://kubernetes.default.svc
-    namespace: gitops-app
+    namespace: boutique-app
 
   syncPolicy:
     automated:
