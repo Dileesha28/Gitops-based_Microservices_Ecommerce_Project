@@ -1638,7 +1638,6 @@ Head to ArgoCD UI , and in separte tab run the CI pipeline or trigger it via chn
 
 ![image.png](docs/images/image%204.png)
 
-![image.png](docs/images/image%205.png)
 
 Access the website `app.devopsdock.site`
 
