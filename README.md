@@ -1,6 +1,6 @@
 # Project Introduction
 
-# Intro to Online Boutique App
+# Online Boutique App
 
 This is a type of e-commerce platform, but unlike Amazon-type stores, it focuses on:
 
@@ -89,7 +89,7 @@ They are built using **Microservices Architecture**.
 >👉 That’s why modern apps (like boutique apps) >use microservices.
 
 
-# **Architecture**
+# **Application Architecture**
 
 **Online Boutique** is composed of 11 microservices written in different languages that talk to each other over gRPC.
 
