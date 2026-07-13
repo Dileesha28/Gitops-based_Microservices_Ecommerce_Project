@@ -111,7 +111,7 @@ They are built using **Microservices Architecture**.
 
 Screenshots:
 
-![image.png](docs/images/Screenshot01.png)
+![image.png](docs/images/app.png)
 
 ---
 
