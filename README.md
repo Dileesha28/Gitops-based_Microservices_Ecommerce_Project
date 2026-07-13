@@ -1027,7 +1027,7 @@ Once you have the images in the github packages, connect them to the repository.
 
 So that it shows up and linked to your repo like this.
 
-![image-magik.png](docs/images/image-magik.png)
+![image-magik.png](docs/images/pack.png)
 
 Go to the image →Package Setting, and give permission to the repo to run action.
 
