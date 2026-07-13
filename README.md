@@ -1,5 +1,3 @@
-# Project Introduction
-
 # Online Boutique App
 
 This is a type of e-commerce platform, but unlike Amazon-type stores, it focuses on:
